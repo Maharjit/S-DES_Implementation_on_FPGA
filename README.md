@@ -1,6 +1,7 @@
 # S-DES Hardware Implementation on FPGA
 
-![Uploading WhatsApp Image 2025-03-31 at 11.32.56.jpeg…]()
+
+![WhatsApp Image 2025-03-31 at 11 32 56](https://github.com/user-attachments/assets/03305762-4647-48cb-b1b2-9e705b50ed19)
 
 
 ## Introduction and Abstract
@@ -37,7 +38,7 @@ This project explores the hardware implementation of S-DES, making key design ad
 
 ---
 
-## Results / Findings
+## Results 
 
 - **Successful implementation** of both encryption and decryption processes.
 - **FPGA resource usage** was optimized to fit within the available logic elements.
